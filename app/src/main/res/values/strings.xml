@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio Fecha</string>
+    <string name="hoy_es">Hoy es %1$s</string>
+    <string name="txtNaciste">Naciste...</string>
+    <string name="bttnFechaNacimiento">Fecha de Nacimiento</string>
+    <string name="txtGrande">Calcula el número de días desde tu fecha de nacimiento</string>
+</resources>
